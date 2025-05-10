@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1746890277 source:d:\programming\codes_c++\algorithms\dynamicprogrammingalgorihm\main.cpp
+	<iostream>
+	"FibonacciNummbers.h"
+
+1746890264 d:\programming\codes_c++\algorithms\dynamicprogrammingalgorihm\fibonaccinummbers.h
+	<vector>
+
