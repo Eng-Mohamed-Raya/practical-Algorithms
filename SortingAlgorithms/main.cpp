@@ -1,7 +1,9 @@
 #include <iostream>
+#include"selectionSort.h"
 #include "insertionSort.h"
 #include"mergeSort.h"
 #include"QuickSort.h"
+#include"countSort.h"
 #define line "-------------------------------------------------------------------------------------------------------------------------------\n"
 using namespace std;
 
@@ -60,6 +62,18 @@ int main()
     cout<<"before sort , ";
     display(arr,n);
 
+    // use selection sort
+    cout<<"Selection sort \n";
+    selectionSort(arr,n);
+    display(arr,n);
+    equalTwoArray(tempArr,arr,n);
+
+    cout<<line;
+
+    //before sort
+    cout<<"before sort , ";
+    display(arr,n);
+
     // use insertion sort
     cout<<"Insertion sort \n";
     insertionSort(arr,n);
@@ -89,6 +103,15 @@ int main()
     display(arr,n);
 
     equalTwoArray(tempArr,arr,n);
+    cout<<line;
+
+     //before sort
+     cout<<"before sort , ";
+    display(arr,n);
+    // use count sort
+    cout<<"count sort \n";
+    countSort(arr,n);
+    display(arr,n);
 
 
 

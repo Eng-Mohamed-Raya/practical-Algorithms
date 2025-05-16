@@ -1,14 +1,23 @@
 # depslib dependency file v1.0
-1746710348 source:d:\programming\codes_c++\algorithms\sortingalgorithms\main.cpp
+1747405444 source:d:\programming\codes_c++\algorithms\sortingalgorithms\main.cpp
 	<iostream>
+	"selectionSort.h"
 	"insertionSort.h"
 	"mergeSort.h"
 	"QuickSort.h"
+	"countSort.h"
 
-1746630051 d:\programming\codes_c++\algorithms\sortingalgorithms\insertionsort.h
+1746710782 d:\programming\codes_c++\algorithms\sortingalgorithms\insertionsort.h
 
-1746630095 d:\programming\codes_c++\algorithms\sortingalgorithms\mergesort.h
+1746710785 d:\programming\codes_c++\algorithms\sortingalgorithms\mergesort.h
 
 1746630168 d:\programming\codes_c++\algorithms\sortingalgorithms\quicksort.h
 	<algorithm>
+
+1747400702 d:\programming\codes_c++\algorithms\sortingalgorithms\selectionsort.h
+	<algorithm>
+
+1747408536 d:\programming\codes_c++\algorithms\sortingalgorithms\countsort.h
+	<algorithm>
+	<iostream>
 

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1747399806 source:d:\programming\codes_c++\algorithms\searchingalgorithms\main.cpp
+	<iostream>
+	"LinearSearch.h"
+	"BinarySearch.h"
+
+1747398779 d:\programming\codes_c++\algorithms\searchingalgorithms\linearsearch.h
+
+1747399806 d:\programming\codes_c++\algorithms\searchingalgorithms\binarysearch.h
+
